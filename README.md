@@ -1,4 +1,4 @@
-# Dace Tomsone - Galvenais virsrakts
+# Emīls Brikmanis - Galvenais virsrakts
 ## Otrais virsraksts
 - Saraksts 1
 - Saraksts 2
